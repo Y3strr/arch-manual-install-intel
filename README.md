@@ -1,0 +1,1 @@
+# arch-manual-install-intel
