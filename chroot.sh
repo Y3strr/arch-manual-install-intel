@@ -24,3 +24,4 @@ chown henry /home/henry
 chmod 777 /home/henry
 grub-install --efi-directory=/boot/efi
 grub-mkconfig -o /boot/grub/grub.cfg
+exit
